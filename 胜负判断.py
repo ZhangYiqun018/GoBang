@@ -26,6 +26,7 @@ def check_win(chess_arr, flag):
         [(-1, -1), (1, 1)],
         [(-1, 1), (1, -1)]
     ]
+    # 深度优先搜索
     for dire1, dire2 in dire_arr:
         dx, dy = dire1
         num1 = get_one_dire_num(lx, ly, dx, dy, m)

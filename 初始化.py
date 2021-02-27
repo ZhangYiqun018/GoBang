@@ -1,4 +1,4 @@
-# 资源路径
+# 加载资源的路径
 chessboard = 'pictures/chessboard.jpg'
 piece_black = 'pictures/piece_black.png'
 piece_white = 'pictures/piece_white.png'

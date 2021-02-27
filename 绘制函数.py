@@ -4,7 +4,7 @@ from 主函数 import *
 
 screen_size = (grid_size, grid_size)
 
-# 页面
+# 初始化pygame句柄
 screen = pygame.display.set_mode(screen_size, 0, 32)
 pygame.display.set_caption('五子棋')
 

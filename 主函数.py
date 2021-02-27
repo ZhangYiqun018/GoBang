@@ -9,7 +9,7 @@ from pygame.locals import *
 import time
 
 if __name__ == '__main__':
-    # 初始化
+    # pygame初始化
     pygame.init()
     pygame.mixer.init()
 
